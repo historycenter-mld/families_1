@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="col004_biesecker_15" %}
+{% include feature/jumbotron.html objectid="/assets/img/col004_burnsfamily.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Meridian Families Collection" %}
 
